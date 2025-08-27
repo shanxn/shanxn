@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shanxn&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <br />
   <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shanxn&theme=catppuccin‑mocha&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shanxn&theme=catppuccin_mocha&hide_longest_streak=true" alt="GitHub Streak" />
 </a>
 
 </p>
