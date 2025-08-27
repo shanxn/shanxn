@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#cba6f7;">🐱 Dharshan (shanxn)</h1>
+  <h1 style="color:#cba6f7;">🐱 Dharshan </h1>
   <p style="color:#a6e3a1;"><strong>workaholic! always building & exploring 🌌</strong></p>
 </div>
 
