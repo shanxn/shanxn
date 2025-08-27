@@ -56,9 +56,12 @@
 
 ### ​ Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shanxn/shanxn/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="github-snake" src="output/github-snake.svg" />
+</picture>
+
 
 
 
