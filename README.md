@@ -16,11 +16,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-94e2d5?style=for-the-badge&logo=flutter&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-f5c2e7?style=for-the-badge&logo=dart&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-f38ba8?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-fab387?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&lineCount=2&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=flutter%2Cflutter%2C6ce8eb%3Breact%2Creact%2C393d9c%3Bfirebase%2Cfirebase%2Cff830c%3B&line2=dart%2Cdart%2C321e70%3Bjavascript%2Cjavascript%2Ce6ae41%3B" alt="Tech Stack" />
 </p>
 
 ---
@@ -28,7 +24,8 @@
 ### 🚀 Featured Projects
 
 - 🎯 [**chiefRek**](https://github.com/shanxn/chiefRek) – Recipe app built in Flutter with sleek UI, filtering, and step-by-step instructions  
-- 🕸️ [**ReactSpidy**](https://github.com/shanxn/ReactSpidy) – Responsive SPA template with modern styling and layout  
+- 🕸️ [**ReactSpidy**](https://github.com/shanxn/ReactSpidy) – Responsive SPA template with modern styling and layout
+- 📦 [**InventoryApp**](https://github.com/shanxn/InventoryApp) – B2B inventory purchase app built in Flutter with sleek UI, filtering. Built with authentication.
 <!-- You can add more project links here -->
 
 ---
