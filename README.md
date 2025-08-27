@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanxn&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shanxn&theme=catppuccin-mocha&hide_longest_streak=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shanxn&theme=catppuccin-mocha&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
