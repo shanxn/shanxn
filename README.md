@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&lineCount=2&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=flutter%2Cflutter%2C6ce8eb%3Breact%2Creact%2C393d9c%3Bfirebase%2Cfirebase%2Cff830c%3B&line2=dart%2Cdart%2C321e70%3Bjavascript%2Cjavascript%2Ce6ae41%3B" alt="Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=react%2Creact%2C063877%3Bflutter%2Cflutter%2C59cfe0%3Bfirebase%2Cfirebase%2Cffa700%3B&line2=dart%2Cdart%2C0e2bff%3Btypescript%2Ctypescript%2C1e85ff%3Bjavascript%2Cjavascript%2Cffc300%3B" alt="My Tech Stack" />
 </p>
 
 ---
